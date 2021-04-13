@@ -1,5 +1,5 @@
 {
-  "name": "template_wp_eslint_jest",
+  "name": "__project_name__",
   "version": "1.0.0",
   "description": "---",
   "main": "src/main.js",
